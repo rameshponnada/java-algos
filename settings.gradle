@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'sample-java-example'
+rootProject.name = 'java-algos'
