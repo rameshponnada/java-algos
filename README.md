@@ -1,2 +1,1 @@
-# sample-java-example
-sample-java-example
+# Java Samples
